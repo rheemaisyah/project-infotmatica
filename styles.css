@@ -1,16 +1,16 @@
 /* Place your CSS styles in this file */
-body {background-color:whitesmoke;
+body {background-color: whitesmoke;
       border: 5px solid cornflowerblue;
       border-radius: 10px;
 }
 
 ul {list-style-type: none;
-    background-color: bisque;
+    background-color: burlywood;
     text-align: center;
 }
 
 li {display: inline;
-    color: white;
+    color: maroon;
     font-size: large;
 }
 
@@ -19,18 +19,18 @@ h1 {
     font-family: "Times New Roman", sans-serif;
     font-weight: bold;
     font-size: x-large;
-    color: bisque;
+    color: maroon;
 }
 
 marquee {
-         color: bisque;
+         color: maroon;
 }
 
 p { 
     text-align: justify;
     font-family: 'Times New Roman', Arial, sans-serif;
     font-size: large;
-    color: bisque
+    color: maroon;
 }
 
 p.par2 {
