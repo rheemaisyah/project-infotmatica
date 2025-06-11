@@ -1,11 +1,11 @@
 /* Place your CSS styles in this file */
-body {background-color:cornsilk;
-      border: 5px solid goldenrod;
+body {background-color:cornflowerblue;
+      border: 5px solid whitesmoke;
       border-radius: 10px;
 }
 
 ul {list-style-type: none;
-    background-color: brown;
+    background-color: bisque;
     text-align: center;
 }
 
@@ -19,18 +19,18 @@ h1 {
     font-family: "Times New Roman", sans-serif;
     font-weight: bold;
     font-size: x-large;
-    color: brown;
+    color: bisque;
 }
 
 marquee {
-         color: brown;
+         color: bisque;
 }
 
 p { 
     text-align: justify;
     font-family: 'Times New Roman', Arial, sans-serif;
     font-size: large;
-    color: brown
+    color: bisque
 }
 
 p.par2 {
